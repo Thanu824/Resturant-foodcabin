@@ -24,14 +24,15 @@ const About = () => {
             },
         }}>
           <Typography varient="h4">
-             Welcome to My Resturant
+             About Us
           </Typography>
-          <p>
-            The food cabin resturant
-          </p>
+          <p> <b>
+            Welcome to the food cabin resturant
+            </b> No.54,Ramakrishna Road,Wellawatte,Columbo 00600,Sri Lanka Shantharuban was established in the year 2004 on the concept of a unique vegetarian resturant providing the discerning clientele in Colombo and suburbs with top class South India and North India cuisine with a matching ambience
+            </p>
           <br/>
           <p> 
-            This is the about page
+            
           </p>
            </Box>
     </Layout>

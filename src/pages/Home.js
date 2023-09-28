@@ -11,7 +11,7 @@ const Home = () => {
           {/*<img className='image' src={Banner}/>*/}
         <div className="headerContainer">
           <h1> Food website </h1>
-          <p> Best Food In Sri Lanka </p>
+          <p> Welcome to the official website of FoodCabin (SriLanka) </p>
           <Link to="/menu">
           <button>
             ORDER NOW

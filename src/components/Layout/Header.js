@@ -7,7 +7,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 const Header = () => {
   const[mobileOpen,setMobileOpen]=useState(false)
   const handleDrawerToggle=()=>{
-    setMobileOpen(!mobileOpen)
+  setMobileOpen(!mobileOpen)
   }
   const drawer=(
     <Box onClick={handleDrawerToggle} sx={{textAlign:"center"}}> 
