@@ -10,6 +10,7 @@ const Menu = () => {
         Menulist.map(menu=>(
           <Card sx={{maxWidth:"390px",display:"flex",m:2}}>
             <CardActionArea>
+              
               <CardMedia sx={{minHeight:"400px"}} 
               component={"img"} 
               src={menu.image}

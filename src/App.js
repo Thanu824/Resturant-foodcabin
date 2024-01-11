@@ -4,6 +4,7 @@ import About from'./pages/About'
 import Contact from'./pages/Contact'
 import Menu from'./pages/Menu'
 import Pagenotfound from'./pages/Pagenotfound'
+
 //import data from "../data/data";
 function App() {
   return (

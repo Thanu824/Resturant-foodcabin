@@ -12,9 +12,15 @@ const Contact = () => {
         <Typography>
         <h1> Contact Page</h1>
         </Typography>
-        <p> Hi helo welcome to all </p>
+        <p><b>Our Time </b></p>
+       <p> Monday-Friday 10.00 am -10.00 pm</p>
+       <p> Weekends & Poyadays : 7.30 am - 10.30 pm</p>
+       <br/>
+       <p><b>Our Address </b></p>
+       <p>  No.54,Ramakrishna Road,Wellawatte, </p>
+       <p> Columbo 00600,Sri Lanka</p>
       </Box>
-      <Box sx={{m:3,width:"600px",ml:10,"@media(max-width:600px)" :{width:"300px"},}}>
+      <Box sx={{m:3,width:"500px",ml:5,"@media(max-width:600px)" :{width:"300px"},}}>
         <TableContainer component={Paper}>
           <Table aria-label="contact table">
             <TableHead>

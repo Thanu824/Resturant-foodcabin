@@ -40,7 +40,7 @@ const Header = () => {
   return (
     <>
         <Box>
-          <AppBar component={'nav'} sx={{bgcolor:"white"}}>
+          <AppBar component={'nav'} sx={{bgcolor:"#1CBDDD"}}>
             <Toolbar>
               <IconButton color="inherrit" aria-label="open drawer" edge="start" sx={{mr:2,display:{sm:"none"},
             }}
@@ -61,7 +61,7 @@ const Header = () => {
                     <Link to={'/'}> Home</Link>
                   </li>
                   <li>
-                    <Link to={'/menuu'}> Menu</Link>
+                    <Link to={'/menu'}> Menu</Link>
                   </li>
                   <li>
                     <Link to={'/about'}> About</Link>

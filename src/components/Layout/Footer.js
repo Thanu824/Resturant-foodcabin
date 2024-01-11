@@ -7,7 +7,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 const Footer = () => {
   return (
     <>
-    <Box sx={{textAlign:'center',bgcolor:"black",color:"white", p:3}}>
+    <Box sx={{textAlign:'center',bgcolor:"#1CBDDD",color:"white", p:3}}>
         <Box
             sx={{
                 my:3,
